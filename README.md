@@ -10,3 +10,4 @@ These are some of my solutions to the leetcode.com challenges.
 151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) [reverse_words.py](reverse_words.py)
 6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [zigzag_conversion.py](zigzag_conversion.py)
 7. [Needle in a haystack](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) [first_word_index.py](first_word_index.py)
+68. [Text Justification](https://leetcode.com/problems/text-justification) [text_justification.py](text_justification.py)
