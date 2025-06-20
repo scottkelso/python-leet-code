@@ -11,3 +11,8 @@ These are some of my solutions to the leetcode.com challenges.
 6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [zigzag_conversion.py](zigzag_conversion.py)
 7. [Needle in a haystack](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) [first_word_index.py](first_word_index.py)
 68. [Text Justification](https://leetcode.com/problems/text-justification) [text_justification.py](text_justification.py)
+11. [Container with most water](https://leetcode.com/problems/container-with-most-water) [max_area.py](max_area.py)
+
+
+## Java Leet Code
+https://github.com/scottkelso/java-leet-code
